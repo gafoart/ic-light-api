@@ -1,6 +1,4 @@
 gradio-client==0.1.1
 Pillow==9.1.1
-gradio-client==0.1.1
-Pillow==9.1.1
-torch==1.13.1
-torchvision==0.14.1
+torch==2.4.0
+torchvision==0.14.1  # Ensure that torchvision is compatible with the version of torch you choose
